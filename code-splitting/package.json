@@ -1,0 +1,19 @@
+{
+  "name": "code-splitting",
+  "version": "1.0.0",
+  "description": "Development web with doly-cli.",
+  "scripts": {
+    "start": "doly dev",
+    "build": "doly build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.0.1"
+  },
+  "devDependencies": {
+    "doly-cli": "0.6.5"
+  }
+}
